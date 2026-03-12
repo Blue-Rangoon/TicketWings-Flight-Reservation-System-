@@ -23,15 +23,6 @@ Domestic Flight Reservation Dashboard built with Java Spring Boot
 
 ---
 
-# 📊 Repository Stats
-
-![Repo Stars](https://img.shields.io/github/stars/Blue-Rangoon/TicketWings)
-![Repo Forks](https://img.shields.io/github/forks/Blue-Rangoon/TicketWings)
-![Repo Issues](https://img.shields.io/github/issues/Blue-Rangoon/TicketWings)
-![Repo Contributors](https://img.shields.io/github/contributors/Blue-Rangoon/TicketWings)
-
----
-
 # 👀 Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=Blue-Rangoon&label=Repository%20Views&color=blue)
