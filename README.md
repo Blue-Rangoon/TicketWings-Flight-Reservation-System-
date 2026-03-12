@@ -1,61 +1,125 @@
-# ✈️ Airline Ticket Booking System – Flight Reservation Dashboard
+# ✈️ TicketWings – Airline Ticket Booking System
 
-![Frontend](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
-![Styling](https://img.shields.io/badge/style-css3-blue?logo=css3)
+<p align="center">
+Domestic Flight Reservation Dashboard built with Java Spring Boot
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flight+Reservation+Dashboard;Full+Stack+Java+Project;Spring+Boot+%2B+Vanilla+JavaScript;OOP+Concepts+Implementation&center=true&width=520&height=45">
+</p>
+
+---
+
+# 🛫 Project Badges
+
+![HTML5](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/style-css3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/logic-javascript-yellow?logo=javascript)
-![Backend](https://img.shields.io/badge/backend-java-red?logo=openjdk)
-![Framework](https://img.shields.io/badge/framework-springboot-green?logo=springboot)
-![Deployment](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
-![Concept](https://img.shields.io/badge/concepts-oop-purple)
-![Flights](https://img.shields.io/badge/system-domestic%20flights-blue?logo=airplane)
-![Country](https://img.shields.io/badge/region-pakistan-darkgreen)
+![Java](https://img.shields.io/badge/backend-java-red?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/framework-springboot-green?logo=springboot)
+![Netlify](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
+![OOP](https://img.shields.io/badge/concepts-oop-purple)
+![Flight System](https://img.shields.io/badge/system-flight_booking-blue?logo=airplane)
 
 ---
 
-## ✈️ Airline Ticket Booking System – Flight Reservation Dashboard
+# 📊 Repository Stats
 
-The **Airline Ticket Booking System** is a full-stack domestic flight reservation system that allows users to create accounts, book airline tickets within Pakistan, select airlines, choose aircraft types, reserve seats, and generate a complete billing receipt.
-
-The project focuses on **Object-Oriented Programming principles**, **structured backend logic**, and **clean UI/UX design** with smooth frontend–backend integration.
-
----
-
-## 🌐 Live Demo
-🔗 https://ticketwings-airline-ticket-booking.netlify.app/
+![Repo Stars](https://img.shields.io/github/stars/Blue-Rangoon/TicketWings)
+![Repo Forks](https://img.shields.io/github/forks/Blue-Rangoon/TicketWings)
+![Repo Issues](https://img.shields.io/github/issues/Blue-Rangoon/TicketWings)
+![Repo Contributors](https://img.shields.io/github/contributors/Blue-Rangoon/TicketWings)
 
 ---
 
-# 🛠 Tech Stack
+# 👀 Visitors
 
-## Frontend
-- HTML5  
-- CSS3  
-- Vanilla JavaScript  
+![Visitors](https://komarev.com/ghpvc/?username=Blue-Rangoon&label=Repository%20Views&color=blue)
 
-### Theme
-- Light Blue  
-- White  
+---
 
-## Backend
-- Java (Spring Boot)
+# 🌐 Live Demo
+
+https://ticketwings-airline-ticket-booking.netlify.app/
+
+---
+
+# 📑 Table of Contents
+
+- Overview  
+- Demo  
+- Screenshots  
+- Features  
+- Tech Stack  
+- System Architecture  
+- Project Structure  
+- Installation  
+- Implemented OOP Concepts  
+- Roadmap  
+- Contributors  
+- License  
+
+---
+
+# 📖 Overview
+
+**TicketWings** is a full-stack airline reservation system that allows users to:
+
+- Create accounts
+- Book domestic flights within Pakistan
+- Select airlines and aircraft
+- Choose seat positions
+- Generate automated travel receipts
+
+The project demonstrates **Object-Oriented Programming in Java**, structured backend logic, and a **dashboard-style UI**.
+
+---
+
+# 🎬 Demo
+
+![TicketWings Demo](demo/ticketwings-demo.gif)
+
+---
+
+# 📸 Screenshots
+
+## Landing Page
+
+![Landing](screenshots/home.png)
+
+## Booking Page
+
+![Booking](screenshots/booking.png)
+
+## Seat Selection
+
+![Seats](screenshots/seats.png)
+
+## Receipt Page
+
+![Receipt](screenshots/receipt.png)
 
 ---
 
 # ✨ Features
 
 ### 👤 User System
-- User Sign Up & Login system
 
-### 🛫 Flight Booking
-- Domestic flight booking within Pakistan
-- Select destination  
-  - Skardu  
-  - Islamabad  
-  - Gawadar  
-  - Lahore  
-  - Quetta  
+- User signup & login
+- Passenger profile creation
+
+### 🛫 Domestic Flight Booking
+
+Supported destinations:
+
+- Skardu
+- Islamabad
+- Gawadar
+- Lahore
+- Quetta
 
 ### 🛩 Airline Selection
+
 - PIA  
 - Serene Air  
 - Airblue  
@@ -64,98 +128,107 @@ The project focuses on **Object-Oriented Programming principles**, **structured 
 - K2 Airways  
 
 ### ✈️ Aircraft Selection
+
 - Boeing 777  
 - Airbus A320  
 - Tu-154M  
 - Yak-42  
 
-### 🎫 Travel Class
-- Economy  
-- Business  
+### 💺 Seat Reservation
 
-### 💺 Seat Booking Options
-- Window / Non-window  
-- Left / Right side  
-- Front / Middle / Back compartment  
+Users can choose:
 
-### 🧾 Auto-Generated Billing Receipt
-Includes:
+- Window / Non-window
+- Left / Right side
+- Front / Middle / Back compartment
 
-- Total travel cost  
-- Destination  
-- Estimated flight time  
-- Airline name  
-- Aircraft type  
+### 🧾 Automatic Billing Receipt
+
+Receipt includes:
+
+- Airline name
+- Aircraft type
+- Destination
+- Estimated flight time
+- Total travel cost
 
 ---
 
-# 🧩 System Highlights
+# 🛠 Tech Stack
 
-- Clean **dashboard-style interface**
-- Lightweight and structured backend logic
-- No database integration  
-- Data handled using **OOP structures and arrays**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring" />
+</p>
+
+### Frontend
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+Theme:
+
+- Light Blue
+- White
+
+### Backend
+
+- Java
+- Spring Boot
+
+---
+
+# 🧠 System Architecture
+
+User  
+↓  
+Login / Sign Up  
+↓  
+Select Destination  
+↓  
+Choose Airline & Aircraft  
+↓  
+Seat Selection  
+↓  
+Generate Receipt  
 
 ---
 
 # 🧠 OOP Concepts Implemented
 
-- Classes & Objects  
-- Parent–Child Relationships (**Inheritance**)  
-- Polymorphism  
-- Encapsulation (**Data Hiding**)  
+-Classes & Objects
+-Inheritance
+-Polymorphism
+-Encapsulation
 
-### Access Modifiers
+Access Modifiers:
 
-- **private** → User confidential data  
-- **protected** → Passenger boarding / travel data  
-- **public** → Receipt & booking details  
+-private → confidential user data
+-protected → passenger travel data
+-public → booking & receipt information
 
-Additional concepts:
-- Arrays for storing flight and airline data
-
----
-
-# 🖥 Frontend Structure
-
-- Login / Sign Up Page  
-- Landing Page (Home Page)  
-- Side Navigation Panel  
-- Booking Page  
-- Seat Selection Page  
-- Receipt Page  
+Arrays are used to manage airline and flight data.
 
 ---
 
-# 🎯 Purpose
+## 🛣 Roadmap
 
-This project was built as an **academic OOP project** to practice:
+ ✅Flight booking system
+ ✅Seat selection
+ ✅Automated receipt generation
+ ⛔Live flight data API
+ ⛔Payment gateway integration
+ ⛔Database integration
+ ⛔Admin dashboard
+ ⛔Live seat availability
 
-- Object-Oriented Programming in Java  
-- Parent–child relationships and polymorphism  
-- Access control and encapsulation  
-- Frontend–backend communication  
-- UI/UX dashboard design  
-- Real-world system simulation **without using a database**
+ ---
 
-The system focuses only on **domestic Pakistani flights** to reduce complexity and maintain structured logic.
+ ## 👨‍💻 Authors
 
----
-
-# 🚀 Future Improvements
-
-- Real-time flight data integration  
-- Payment gateway integration  
-- User booking history  
-- Database integration (MySQL / PostgreSQL)  
-- Admin dashboard for airline management  
-- Live seat availability tracking  
+- Saad Ali Rizvi
+- Ahmad Ghazali
+- Fahad Ahmed
+- Mohammad Daniyal
 
 ---
-
-# 👨‍💻 Authors
-
-- **Saad Ali Rizvi**  
-- **Ahmad Ghazali**  
-- **Fahad Ahmed**  
-- **Mohammad Daniyal**
