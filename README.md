@@ -1,101 +1,160 @@
-#Airline Ticket Booking System – Flight Reservation Dashboard
+# ✈️ Airline Ticket Booking System – Flight Reservation Dashboard
 
-Airline Ticket Booking System is a full-stack domestic flight reservation system that allows users to create accounts, book airline tickets within Pakistan, select airlines, choose aircraft types, reserve seats, and generate a complete billing receipt.
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Logic-Vanilla%20JavaScript-yellow)
+![Java](https://img.shields.io/badge/Backend-Java-red)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green)
+![Netlify](https://img.shields.io/badge/Deployment-Netlify-00C7B7)
+![OOP](https://img.shields.io/badge/Concepts-OOP-purple)
+![Status](https://img.shields.io/badge/Project-Academic%20Project-brightgreen)
 
-The project focuses on Object-Oriented Programming principles, structured backend logic, and clean UI/UX design with smooth frontend–backend integration.
+---
 
-#Live Demo: https://ticketwings-airline-ticket-booking.netlify.app/
+## ✈️ Airline Ticket Booking System – Flight Reservation Dashboard
 
-#Tech Stack:
+The **Airline Ticket Booking System** is a full-stack domestic flight reservation system that allows users to create accounts, book airline tickets within Pakistan, select airlines, choose aircraft types, reserve seats, and generate a complete billing receipt.
 
-Frontend:
--HTML5
--CSS3
--Vanilla JavaScript
+The project focuses on **Object-Oriented Programming principles**, **structured backend logic**, and **clean UI/UX design** with smooth frontend–backend integration.
 
+---
 
-Theme: 
--Light Blue 
--White
+## 🌐 Live Demo
+🔗 https://ticketwings-airline-ticket-booking.netlify.app/
 
+---
 
-Backend:
--Java (Spring Boot)
+# 🛠 Tech Stack
 
+## Frontend
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
 
-#Features:
+### Theme
+- Light Blue  
+- White  
 
--User Sign Up & Login system
--Domestic flight booking within Pakistan
--Select destination (Skardu, Islamabad, Gawadar, Lahore, Quetta)
--Choose airline (PIA, Serene Air, Airblue, Fly Jinnah, Shaheen Air, K2 Airways)
--Aircraft selection (Boeing 777, Airbus A320, Tu-154M, Yak-42)
--Class selection (Economy / Business)
+## Backend
+- Java (Spring Boot)
 
-Seat booking options:
--Window / Non-window
--Left / Right side
--Front / Middle / Back compartment
--Auto-generated billing receipt including:
--Total travel cost
--Destination
--Estimated flight time
--Airline name
--Aircraft type
+---
 
-=Clean dashboard-style interface
-=Lightweight and structured backend logic
-=No database integration (data handled using OOP structures & arrays)
+# ✨ Features
 
+### 👤 User System
+- User Sign Up & Login system
 
-#OOP Concepts Implemented:
--Classes & Objects
--Parent–Child Relationships (Inheritance)
--Polymorphism
--Encapsulation (Data Hiding)
+### 🛫 Flight Booking
+- Domestic flight booking within Pakistan
+- Select destination  
+  - Skardu  
+  - Islamabad  
+  - Gawadar  
+  - Lahore  
+  - Quetta  
 
+### 🛩 Airline Selection
+- PIA  
+- Serene Air  
+- Airblue  
+- Fly Jinnah  
+- Shaheen Air  
+- K2 Airways  
 
-Access Modifiers:
+### ✈️ Aircraft Selection
+- Boeing 777  
+- Airbus A320  
+- Tu-154M  
+- Yak-42  
 
--private → User confidential data
--protected → Passenger boarding/travel data
--public → Receipt & booking details
--Arrays for storing flight and airline data
+### 🎫 Travel Class
+- Economy  
+- Business  
 
+### 💺 Seat Booking Options
+- Window / Non-window  
+- Left / Right side  
+- Front / Middle / Back compartment  
 
-#Frontend Structure:
--Login / Sign Up Page
--Landing Page (Home Page)
--Side Navigation Panel
--Booking Page
--Seat Selection Page
--Receipt Page
+### 🧾 Auto-Generated Billing Receipt
+Includes:
 
+- Total travel cost  
+- Destination  
+- Estimated flight time  
+- Airline name  
+- Aircraft type  
 
-Purpose:
--This project was built as an academic OOP project to practice:
--Object-Oriented Programming in Java
--Parent-child relationships and polymorphism
--Access control and encapsulation
--Frontend–backend communication
+---
 
+# 🧩 System Highlights
 
-=UI/UX dashboard design
-=Real-world system simulation without using a database
-=The system focuses only on domestic Pakistani flights to reduce complexity and maintain structured logic.
+- Clean **dashboard-style interface**
+- Lightweight and structured backend logic
+- No database integration  
+- Data handled using **OOP structures and arrays**
 
+---
 
-#Future Improvements:
--Real-time flight data integration
--Payment gateway integration
--User booking history
--Database (MySQL/PostgreSQL) integration
--Admin dashboard for airline management
--Live seat availability tracking
+# 🧠 OOP Concepts Implemented
 
+- Classes & Objects  
+- Parent–Child Relationships (**Inheritance**)  
+- Polymorphism  
+- Encapsulation (**Data Hiding**)  
 
-#Authors:
--Saad Ali Rizvi
--Ahmad Ghazali
--Fahad Ahmed
--Mohammad Daniyal
+### Access Modifiers
+
+- **private** → User confidential data  
+- **protected** → Passenger boarding / travel data  
+- **public** → Receipt & booking details  
+
+Additional concepts:
+- Arrays for storing flight and airline data
+
+---
+
+# 🖥 Frontend Structure
+
+- Login / Sign Up Page  
+- Landing Page (Home Page)  
+- Side Navigation Panel  
+- Booking Page  
+- Seat Selection Page  
+- Receipt Page  
+
+---
+
+# 🎯 Purpose
+
+This project was built as an **academic OOP project** to practice:
+
+- Object-Oriented Programming in Java  
+- Parent–child relationships and polymorphism  
+- Access control and encapsulation  
+- Frontend–backend communication  
+- UI/UX dashboard design  
+- Real-world system simulation **without using a database**
+
+The system focuses only on **domestic Pakistani flights** to reduce complexity and maintain structured logic.
+
+---
+
+# 🚀 Future Improvements
+
+- Real-time flight data integration  
+- Payment gateway integration  
+- User booking history  
+- Database integration (MySQL / PostgreSQL)  
+- Admin dashboard for airline management  
+- Live seat availability tracking  
+
+---
+
+# 👨‍💻 Authors
+
+- **Saad Ali Rizvi**  
+- **Ahmad Ghazali**  
+- **Fahad Ahmed**  
+- **Mohammad Daniyal**
