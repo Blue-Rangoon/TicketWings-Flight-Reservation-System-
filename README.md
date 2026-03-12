@@ -178,14 +178,14 @@ Arrays are used to manage airline and flight data.
 
 ## 🛣 Roadmap
 
- -✅Flight booking system
- -✅Seat selection
- -✅Automated receipt generation
- -⛔Live flight data API
- -⛔Payment gateway integration
- -⛔Database integration
- -⛔Admin dashboard
- -⛔Live seat availability
+-✅Flight booking system
+-✅Seat selection
+-✅Automated receipt generation
+-⛔Live flight data API
+-⛔Payment gateway integration
+-⛔Database integration
+-⛔Admin dashboard
+-⛔Live seat availability
 
  ---
 
