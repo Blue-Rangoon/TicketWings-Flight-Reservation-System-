@@ -1,13 +1,14 @@
 # ✈️ Airline Ticket Booking System – Flight Reservation Dashboard
 
-![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/Logic-Vanilla%20JavaScript-yellow)
-![Java](https://img.shields.io/badge/Backend-Java-red)
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green)
-![Netlify](https://img.shields.io/badge/Deployment-Netlify-00C7B7)
-![OOP](https://img.shields.io/badge/Concepts-OOP-purple)
-![Status](https://img.shields.io/badge/Project-Academic%20Project-brightgreen)
+![Frontend](https://img.shields.io/badge/frontend-html5-orange?logo=html5)
+![Styling](https://img.shields.io/badge/style-css3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/logic-javascript-yellow?logo=javascript)
+![Backend](https://img.shields.io/badge/backend-java-red?logo=openjdk)
+![Framework](https://img.shields.io/badge/framework-springboot-green?logo=springboot)
+![Deployment](https://img.shields.io/badge/deployment-netlify-teal?logo=netlify)
+![Concept](https://img.shields.io/badge/concepts-oop-purple)
+![Flights](https://img.shields.io/badge/system-domestic%20flights-blue?logo=airplane)
+![Country](https://img.shields.io/badge/region-pakistan-darkgreen)
 
 ---
 
