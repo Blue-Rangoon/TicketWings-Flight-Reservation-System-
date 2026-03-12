@@ -66,32 +66,6 @@ The project demonstrates **Object-Oriented Programming in Java**, structured bac
 
 ---
 
-# 🎬 Demo
-
-![TicketWings Demo](demo/ticketwings-demo.gif)
-
----
-
-# 📸 Screenshots
-
-## Landing Page
-
-![Landing](screenshots/home.png)
-
-## Booking Page
-
-![Booking](screenshots/booking.png)
-
-## Seat Selection
-
-![Seats](screenshots/seats.png)
-
-## Receipt Page
-
-![Receipt](screenshots/receipt.png)
-
----
-
 # ✨ Features
 
 ### 👤 User System
