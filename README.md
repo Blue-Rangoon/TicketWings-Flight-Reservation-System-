@@ -213,7 +213,7 @@ Looking for modifications or additional features? We also offer custom developme
 
 🌐 **Explore more projects:**
 
-- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)
+- GitHub: [**@digilinkstechsolutions**] (https://github.com/digilinkstechsolutions)
   
 - Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
 
