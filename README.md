@@ -48,7 +48,7 @@ https://ticketwings-airline-ticket-booking.netlify.app/
 - Implemented OOP Concepts  
 - Roadmap  
 - Contributors  
-- License  
+- Note  
 
 ---
 
