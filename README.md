@@ -209,6 +209,16 @@ Looking for modifications or additional features? We also offer custom developme
 - Email: digilinkstechsolutions@gmail.com
 - Instagram: digilinks_tech_solutions
 
+
+
+🌐 **Explore more projects:**
+
+- GitHub: [**@digilinkstechsolutions**](https://github.com/digilinkstechsolutions)
+  
+- Website: [**Digilinks Professional Services**](https://digilinks-professional-services.netlify.app)
+
+
+
 Serious inquiries only. Let’s build something great together.
 
 ---
