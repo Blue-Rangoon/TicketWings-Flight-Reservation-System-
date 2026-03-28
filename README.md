@@ -122,7 +122,7 @@ Receipt includes:
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,spring" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,netlify" />
 </p>
 
 ### Frontend
